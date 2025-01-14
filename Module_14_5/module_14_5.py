@@ -9,7 +9,7 @@ import sqlite3
 
 
 
-api = "7786861788:AAFFn2DS9AASUyduh4mRFMZNgA25R4s-jn4"
+api = ""
 bot = Bot(token=api)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
